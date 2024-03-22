@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Onef11/tea-project2.git"
+    "url": "https://github.com/NaufalAnantaSE/teaa-project.git"
   },
   "dependencies": {
     "tea-npm-serg": "1.0.0"
@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Onef11/tea-project2/issues"
+    "url": "https://github.com/NaufalAnantaSE/teaa-project/issues"
   },
-  "homepage": "https://github.com/Onef11/tea-project2#readme"
+  "homepage": "https://github.com/NaufalAnantaSE/teaa-project#readme"
 }
